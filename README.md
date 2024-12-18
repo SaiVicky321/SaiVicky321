@@ -1,82 +1,28 @@
-<h2 align="left">Hi 👋, I'm Sai Vignesh R</h2>
-<p align="left">I'm an aspiring DevOps Engineer passionate about automating processes, managing infrastructure, and building scalable systems. I love learning new technologies and contributing to open-source projects!</p>
+# Hi👋 from Sai Vignesh R
 
-###
+## 💫 About Me:
+- 🔭 I’m currently working on **Personal DevOps projects**
+- 🌱 I’m currently learning **Kubernetes**, **Terraform**, and **AWS**
+- 🤔 I’m looking for help with understanding **complex cloud infrastructure** and **real-world experience**
+- 💬 Ask me about **DevOps tools, CI/CD**, or **Infrastructure as Code**
+- 📫 How to reach me: *saivignesh1399@gmail.com*
+- ⚡ Fun fact: I love **automating tasks with scripts and tools**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiVicky321&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaiVicky321&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
 
-### 👨‍💻 About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sai-vignesh-r/) 
 
-- 🔭 I’m currently working on personal DevOps projects
-- 🌱 I’m currently learning Kubernetes, Terraform, and AWS
-- 🤔 I’m looking for help with understanding complex cloud infrastructure
-- 💬 Ask me about DevOps tools, CI/CD, or Infrastructure as Code
-- 📫 How to reach me: [saivignesh1399@gmail.com](mailto:saivignesh1399@gmail.com)
-- ⚡ Fun fact: I love automating tasks with scripts and tools
+## 💻 Tech Stack:
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![argocd](https://img.shields.io/badge/argocd-%2300B0D9.svg?style=for-the-badge&logo=argocd&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
-###
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SaiVicky321&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SaiVicky321&theme=transparent&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiVicky321&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🛠️ Technologies & Tools
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SaiVicky321&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
-</div>
+## 🐍 Snake Commit Game
 
-###
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiVicky321&show_icons=true&theme=radical" alt="Sai Vignesh's stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiVicky321&theme=radical" alt="GitHub Streak" />
-</div>
-
-###
-
-### 🐍 Snake Animation
-
-<div align="center">
-  <img src=["https://raw.githubusercontent.com/SaiVicky321/SaiVicky321/output/snake.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
-</div>
-
-###
-
-### 📫 Connect with Me
-
-- 📧 Email: [sai_vignesh1399@gmail.com](mailto:saivignesh1399@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sai-vignesh-r/)
-
-<br clear="both">
-
----
-
-<p align="center">
-  <em>Thank you for visiting my GitHub profile!</em>
-</p>
