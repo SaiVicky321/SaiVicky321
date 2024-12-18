@@ -30,4 +30,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=SaiVicky321&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐍 Snake Commit Game
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiVicky321/SaiVicky321/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiVicky321/SaiVicky321/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SaiVicky321/SaiVicky321/output/github-snake.svg" />
+</picture>
